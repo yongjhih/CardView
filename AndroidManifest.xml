@@ -18,7 +18,6 @@
     package="android.support.v7.cardview" >
 
     <uses-sdk
-        android:minSdkVersion="L"
         android:targetSdkVersion="L" />
 
     <application />

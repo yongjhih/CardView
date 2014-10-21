@@ -1,5 +1,5 @@
-CardView
-========
+CardView for eclipse
+====================
 
 Allow android.support.v7.cardview AAR easy to use in ADT/Eclipse.
 

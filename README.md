@@ -21,4 +21,4 @@ Usage
 See Also
 ========
 
-* http://stackoverflow.com/questions/24449344/using-android-support-v7-widget-cardview-in-my-project-eclipse/24449600#24449600
+* http://stackoverflow.com/a/24522502
